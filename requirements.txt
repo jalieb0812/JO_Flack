@@ -1,0 +1,11 @@
+Flask
+Flask-SocketIO
+Flask-Session
+requests
+eventlet
+gevent-websocket
+gunicorn
+Werkzeug==0.16.0
+python-socketio
+gevent
+psycopg2
